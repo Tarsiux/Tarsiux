@@ -18,7 +18,7 @@
 
 
 <!-- Abaut me -->
-<h2><img alt="About me" src="./raw/img_per/about_me.gif" width="48px" height="48px">Sobre mi</h2>
+<h2><img alt="About me" src="./raw/img_per/about_me.gif" width="48px" height="48px">  Sobre mi</h2>
 
 - 💻 Soy Tecnico en <b>Desarrollo de Aplicaciones Multiplataforma</b>.
 - 🌱 Actualmente estoy aprendiendo:
@@ -27,11 +27,11 @@
 - 🙃 <b>Enserio mira mi <a href="">porfolio</a> 🙃.</b>
 - 📫 Contacta conmigo en:
 ```
-    sertrujezprofesional+contacto@gmail.com
+sertrujezprofesional+contacto@gmail.com
 ```
 
 <!-- Skills -->
-<h2><img alt="skill" src="./raw/img_per/skill.gif" width="48px" height="48px">Habilidades</h2>
+<h2><img alt="skill" src="./raw/img_per/skill.gif" width="48px" height="48px">  Habilidades</h2>
 
 <!-- Repo icon ->  https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
@@ -67,4 +67,4 @@
 </span>
 
 <!-- More -->
-<h2><img alt="mas" src="./raw/img_per/more.gif" width="48px" height="48px"> Mas de mi</h2>
+<h2><img alt="mas" src="./raw/img_per/more.gif" width="48px" height="48px">  Mas de mi</h2>
