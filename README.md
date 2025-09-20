@@ -12,7 +12,7 @@
 <!-- Summary -->
 <p>
     Bienvenido a mi perfil de <b>Github</b>. Soy <b>Tecnico en Desarrollo de Aplicaciones Multiplataforma</b>. Si quieres
-    conocer mejor mi trabajo te dejo mi <a href="">porfolio</a> y mi <a href="">Linkedin</a>. Sigue scroleando 👇 para un 
+    conocer mejor mi trabajo te dejo mi <a href="">portafolio</a> y mi <a href="">Linkedin</a>. Sigue scroleando 👇 para un 
     breve resumen de lo que hago y en qué tecnologías me especializo.
 </p>
 
@@ -23,8 +23,8 @@
 - 💻 Soy Tecnico en <b>Desarrollo de Aplicaciones Multiplataforma</b>.
 - 🌱 Actualmente estoy aprendiendo:
     - Algoritmos y estructura de datos
-- 🔭 Abierto a cualquier oportunidad laboral. Mi CV esta en el <a href="">porfolio</a>.
-- 🙃 <b>Enserio mira mi <a href="">porfolio</a> 🙃.</b>
+- 🔭 Abierto a cualquier oportunidad laboral. Mi CV esta en el <a href="">portafolio</a>.
+- 🙃 <b>Enserio mira mi <a href="">portafolio</a> 🙃.</b>
 - 📫 Contacta conmigo en:
 ```
 sertrujezprofesional+contacto@gmail.com
