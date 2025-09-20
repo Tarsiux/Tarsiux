@@ -5,7 +5,10 @@
 <!--  Hi -->
 <ul align="center"> 
     <img alt="spacer" src="./raw/img_per/separador.gif">
-    <h1 style="display: inline-block">Hola, soy Tarsiux</h1> <img width="48px" height="48px" alt="mano-saludando" src="./raw/img_per/manosaludando.gif">
+    <span>
+        <h1 style="display: inline-block">Hola, soy Tarsiux</h1> 
+        <img width="48px" height="48px" alt="mano-saludando" src="./raw/img_per/manosaludando.gif">
+    </span>
     <img alt="spacer" src="./raw/img_per/separador.gif">
 </ul>
 
@@ -18,7 +21,10 @@
 
 
 <!-- Abaut me -->
-<img alt="About me" src="./raw/img_per/about_me.gif" width="48px" height="48px" ><h2>Sobre mi</h2>
+<span>
+    <img alt="About me" src="./raw/img_per/about_me.gif" width="48px" height="48px">
+    <h2>Sobre mi</h2>
+</span>
 
 - 💻 Soy Tecnico en <b>Desarrollo de Aplicaciones Multiplataforma</b>.
 - 🌱 Actualmente estoy aprendiendo:
@@ -31,7 +37,10 @@
 ```
 
 <!-- Skills -->
-<img alt="skill" src="./raw/img_per/skill.gif" width="48px" height="48px" ><h2>Habilidades</h2>
+<span>
+    <img alt="skill" src="./raw/img_per/skill.gif" width="48px" height="48px">
+    <h2>Habilidades</h2>
+</span>
 
 <!-- Repo icon ->  https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
@@ -67,4 +76,7 @@
 </span>
 
 <!-- More -->
-<img alt="mas" src="./raw/img_per/more.gif" width="48px" height="48px" ><h2>Mas de mi</h2>
+<span>
+    <img alt="mas" src="./raw/img_per/more.gif" width="48px" height="48px">
+    <h2>Mas de mi</h2>
+</span>
