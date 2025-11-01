@@ -1,12 +1,12 @@
 
 <!-- Banner -->
-<img alt="Banner" src="./img/otherbanerOpti.jpg" width="2000px" height="400" align="center"/>
+<img alt="Banner" src="./img/other/banerOpti.jpg" width="2000px" height="400" align="center"/>
 
 <!--  Hi -->
 <ul align="center"> 
-    <img alt="spacer" src="./img/otherseparador.gif">
+    <img alt="spacer" src="./img/other/separador.gif">
         <h1 style="display: inline-block">Hola, soy Tarsiux <img width="48px" height="48px" alt="mano-saludando" src="./img/othermanosaludando.gif"></h1> 
-    <img alt="spacer" src="./img/otherseparador.gif">
+    <img alt="spacer" src="./img/other/separador.gif">
 </ul>
 
 <!-- Summary -->
@@ -18,7 +18,7 @@
 
 
 <!-- Abaut me -->
-<h2><img alt="About me" src="./img/otherabout_me.gif" width="48px" height="48px">  Sobre mi</h2>
+<h2><img alt="About me" src="./img/other/about_me.gif" width="48px" height="48px">  Sobre mi</h2>
 
 - 💻 Soy Tecnico en <b>Desarrollo de Aplicaciones Multiplataforma</b>.
 - 🌱 Siempre estoy aprendiendo
@@ -30,7 +30,7 @@ sertrujezprofesional+contacto@gmail.com
 ```
 
 <!-- Skills -->
-<h2><img alt="skill" src="./img/otherskill.gif" width="48px" height="48px">  Habilidades</h2>
+<h2><img alt="skill" src="./img/other/skill.gif" width="48px" height="48px">  Habilidades</h2>
 
 <!-- Repo icon ->  https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
