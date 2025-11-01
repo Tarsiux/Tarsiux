@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<img alt="Banner" src="./img/other/banerOpti.jpg" width="2000px" height="400" align="center"/>
+<img alt="Banner" src="./img/other/baner.png" width="2000px" height="400" align="center"/>
 
 <!--  Hi -->
 <ul align="center"> 
